@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Muhammad Zeeshan
 
-### 🚀 Android Developer | Kotlin Enthusiast | POS Systems | Fintech | Banking
+### 🚀 Mobile Developer | Kotlin Enthusiast | POS Systems | Fintech | Banking
 
 ---
 
 ## 👨‍💻 About Me
 
-A Senior Android Developer with 7+ years of experience building high-performance, secure, and scalable mobile applications. My expertise spans Fintech, Digital Banking, POS, E-Commerce, and Real Estate platforms, where I’ve worked on everything from customer-facing mobile experiences to complex payment and hardware integrations.
+A Senior Mobile Developer with 7+ years of experience building high-performance, secure, and scalable mobile applications. My expertise spans Fintech, Digital Banking, POS, E-Commerce, and Real Estate platforms, where I’ve worked on everything from customer-facing mobile experiences to complex payment and hardware integrations.
 
 Specialize in Kotlin, Java, Jetpack Compose, Clean Architecture, MVVM, and modern Android development. I have hands-on experience integrating payment gateways, PAX payment terminals, thermal printers, barcode scanners, biometric authentication, REST APIs, Room Database, Firebase, and offline-first systems.
 
