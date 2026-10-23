@@ -6,13 +6,13 @@
 
 ## 👨‍💻 About Me
 
-A Senior Mobile Developer with 7+ years of experience building high-performance, secure, and scalable mobile applications. My expertise spans Fintech, Digital Banking, POS, E-Commerce, and Real Estate platforms, where I’ve worked on everything from customer-facing mobile experiences to complex payment and hardware integrations.
+A Senior Mobile Developer with 7+ years of experience building high-performance, secure, and scalable mobile applications. My expertise spans Fintech, Digital Banking, POS, E-Commerce, and Real Estate platforms, where I've worked on everything from customer-facing mobile experiences to complex payment and hardware integrations.
 
-Specialize in Kotlin, Java, Jetpack Compose, Clean Architecture, MVVM, and modern Android development. I have hands-on experience integrating payment gateways, PAX payment terminals, thermal printers, barcode scanners, biometric authentication, REST APIs, Room Database, Firebase, and offline-first systems.
+Specialize in Kotlin, Java, Jetpack Compose, Clean Architecture, MVVM, and modern Android development. I have hands-on experience integrating payment gateways, thermal printers, barcode scanners, biometric authentication, REST APIs, Room Database, Firebase, and offline-first systems.
 
-Throughout my career, I’ve worked on banking and payment solutions involving fund transfers, investment management, biometric authentication, card and cash payments. I enjoy solving complex technical problems, improving application performance, and building reliable products that can operate effectively in real-world environments.
+Throughout my career, I've worked on banking and payment solutions involving fund transfers, investment management, biometric authentication, card and cash payments. I enjoy solving complex technical problems, improving application performance, and building reliable products that can operate effectively in real-world environments.
 
-I’m also actively exploring AI-assisted and agentic development workflows, using tools such as Cursor and Claude to accelerate development, improve productivity, and experiment with modern AI-powered software engineering practices.
+I'm also actively exploring AI-assisted and agentic development workflows, using tools such as Cursor and Claude to accelerate development, improve productivity, and experiment with modern AI-powered software engineering practices.
 
 Beyond writing code, I enjoy working closely with backend, QA, product, and business teams to turn complex requirements into practical, production-ready solutions.
 
@@ -38,11 +38,10 @@ Beyond writing code, I enjoy working closely with backend, QA, product, and busi
 - Dependency Injection (Hilt)
 
 ### Fintech & Hardware
-- PAX Device Integration
 - Payment Gateways (Stripe, JazzCash, Network International)
 - Barcode Scanners
 - Thermal Printers
-- Biometrics
+- Finger Biometrics
 
 ### Data, Network & Storage
 - RESTful APIs
@@ -65,14 +64,6 @@ Beyond writing code, I enjoy working closely with backend, QA, product, and busi
 ---
 
 ## 🚀 Featured Projects
-
-### Dolphin POS System
-**Platform:** Android POS
-
-- Architected and developed scalable Android POS solutions focused on performance, transaction speed, and security.
-- Engineered payment workflows including card payments, cash payments, split payments, refunds, and merchant discount processing.
-- Integrated PAX payment terminals, thermal receipt printers, and barcode scanners.
-- Implemented reliable offline-first communication with POS peripherals.
 
 ### JS Mobile Banking
 **Platform:** Google Play Store
@@ -109,4 +100,4 @@ Beyond writing code, I enjoy working closely with backend, QA, product, and busi
 
 ⭐ Feel free to explore my repositories and connect with me.
 
-> *"Great software is built with clean code, continuous learning, and a passion for solving problems."*
+> "Great software is built with clean code, continuous learning, and a passion for solving problems."
