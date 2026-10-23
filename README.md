@@ -22,6 +22,7 @@ Beyond writing code, I enjoy working closely with backend, QA, product, and busi
 
 ### Languages & Core
 - Kotlin
+- Flutter
 - Java
 - Android SDK
 - Coroutines
